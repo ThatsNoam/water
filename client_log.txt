@@ -1,0 +1,39 @@
+2025-06-10 12:49:07,943 - INFO - Connecting to mediator server at 127.0.0.1:5556...
+2025-06-10 12:49:07,995 - INFO - Connected to mediator server (Client ID: 605d7d3a)
+2025-06-10 12:49:23,191 - INFO - Help request sent to mediator server
+2025-06-10 12:49:23,194 - INFO - Help request confirmed - waiting for technician...
+2025-06-10 12:49:25,582 - INFO - Control request from technician: noam-10.0.0.22 (127.0.0.1)
+2025-06-10 12:49:27,420 - INFO - Approved control request from noam-10.0.0.22
+2025-06-10 12:49:32,812 - INFO - Control request from technician: noam-10.0.0.22 (127.0.0.1)
+2025-06-10 12:49:34,272 - INFO - Approved control request from noam-10.0.0.22
+2025-06-10 12:49:41,030 - INFO - Disconnected from mediator server
+2025-06-10 12:49:41,034 - INFO - Disconnected from mediator server
+2025-06-10 12:49:46,106 - INFO - Connecting to mediator server at 127.0.0.1:5556...
+2025-06-10 12:49:46,128 - INFO - Connected to mediator server (Client ID: b5f66f74)
+2025-06-10 12:49:49,487 - INFO - Help request sent to mediator server
+2025-06-10 12:49:49,489 - INFO - Help request confirmed - waiting for technician...
+2025-06-10 12:49:51,053 - INFO - Control request from technician: noam-10.0.0.22 (127.0.0.1)
+2025-06-10 12:49:52,362 - INFO - Approved control request from noam-10.0.0.22
+2025-06-10 12:50:01,339 - INFO - Disconnected from mediator server
+2025-06-10 12:50:01,341 - INFO - Disconnected from mediator server
+2025-06-10 12:50:02,670 - INFO - Connecting to mediator server at 127.0.0.1:5556...
+2025-06-10 12:50:02,687 - INFO - Connected to mediator server (Client ID: a3806d4d)
+2025-06-10 12:50:06,595 - INFO - Help request sent to mediator server
+2025-06-10 12:50:06,597 - INFO - Help request confirmed - waiting for technician...
+2025-06-10 12:50:08,270 - INFO - Control request from technician: noam-10.0.0.22 (127.0.0.1)
+2025-06-10 12:50:09,364 - INFO - Approved control request from noam-10.0.0.22
+2025-06-10 12:50:21,257 - INFO - Disconnected from mediator server
+2025-06-10 12:50:21,257 - INFO - Control server stopped
+2025-06-10 12:55:16,803 - INFO - Error accepting control connection
+2025-06-10 13:23:47,289 - INFO - Connecting to mediator server at 127.0.0.1:5556...
+2025-06-10 13:23:47,326 - INFO - Connected to mediator server (Client ID: ca96e8eb)
+2025-06-10 13:23:49,532 - INFO - Help request sent to mediator server
+2025-06-10 13:23:49,533 - INFO - Help request confirmed - waiting for technician...
+2025-06-10 13:23:51,111 - INFO - Control request from technician: noam-10.0.0.22 (127.0.0.1)
+2025-06-10 13:23:52,336 - INFO - Approved control request from noam-10.0.0.22
+2025-06-10 13:23:52,355 - INFO - Control connection from 127.0.0.1:52425
+2025-06-10 13:24:31,884 - INFO - Technician disconnected
+2025-06-10 13:24:31,906 - INFO - Error sending screenshot: 'NoneType' object has no attribute 'gettimeout'
+2025-06-10 13:24:32,695 - INFO - Disconnected from mediator server
+2025-06-10 13:24:33,599 - INFO - Disconnected from mediator server
+2025-06-10 13:24:33,600 - INFO - Control server stopped

@@ -1,0 +1,49 @@
+2025-06-10 12:49:07,991 - INFO - New connection from 127.0.0.1:51495
+2025-06-10 12:49:07,994 - INFO - Client 'libby-10.0.0.22' connected with ID: 605d7d3a
+2025-06-10 12:49:13,185 - INFO - New connection from 127.0.0.1:51496
+2025-06-10 12:49:13,187 - INFO - Technician 'noam-10.0.0.22' connected with ID: c339a9fa
+2025-06-10 12:49:23,191 - INFO - Help request from client 'libby-10.0.0.22' (127.0.0.1)
+2025-06-10 12:49:25,579 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.22'
+2025-06-10 12:49:27,420 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.22 (Session: 7d327f62)
+2025-06-10 12:49:32,810 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.22'
+2025-06-10 12:49:34,272 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.22 (Session: 252e2445)
+2025-06-10 12:49:38,951 - INFO - Technician 'noam-10.0.0.22' disconnected
+2025-06-10 12:49:41,028 - INFO - Client 'libby-10.0.0.22' disconnected
+2025-06-10 12:49:46,124 - INFO - New connection from 127.0.0.1:51499
+2025-06-10 12:49:46,127 - INFO - Client 'libby-10.0.0.22' connected with ID: b5f66f74
+2025-06-10 12:49:47,908 - INFO - New connection from 127.0.0.1:51500
+2025-06-10 12:49:47,911 - INFO - Technician 'noam-10.0.0.22' connected with ID: 0f4bf897
+2025-06-10 12:49:49,487 - INFO - Help request from client 'libby-10.0.0.22' (127.0.0.1)
+2025-06-10 12:49:51,050 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.22'
+2025-06-10 12:49:52,362 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.22 (Session: cef2a5e4)
+2025-06-10 12:50:01,337 - INFO - Client 'libby-10.0.0.22' disconnected
+2025-06-10 12:50:02,684 - INFO - New connection from 127.0.0.1:51502
+2025-06-10 12:50:02,686 - INFO - Client 'libby-10.0.0.22' connected with ID: a3806d4d
+2025-06-10 12:50:05,112 - INFO - Technician 'noam-10.0.0.22' disconnected
+2025-06-10 12:50:05,499 - INFO - New connection from 127.0.0.1:51503
+2025-06-10 12:50:05,502 - INFO - Technician 'noam-10.0.0.22' connected with ID: faa74420
+2025-06-10 12:50:06,595 - INFO - Help request from client 'libby-10.0.0.22' (127.0.0.1)
+2025-06-10 12:50:08,267 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.22'
+2025-06-10 12:50:09,364 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.22 (Session: 6674d331)
+2025-06-10 12:50:19,616 - INFO - Session 6674d331 ended by technician
+2025-06-10 12:50:19,619 - INFO - Technician 'noam-10.0.0.22' disconnected
+2025-06-10 12:50:21,255 - INFO - Client 'libby-10.0.0.22' disconnected
+2025-06-10 13:23:47,323 - INFO - New connection from 127.0.0.1:52420
+2025-06-10 13:23:47,325 - INFO - Client 'libby-10.0.0.22' connected with ID: ca96e8eb
+2025-06-10 13:23:48,517 - INFO - New connection from 127.0.0.1:52421
+2025-06-10 13:23:48,519 - INFO - Technician 'noam-10.0.0.22' connected with ID: ef0f18a9
+2025-06-10 13:23:49,532 - INFO - Help request from client 'libby-10.0.0.22' (127.0.0.1)
+2025-06-10 13:23:51,109 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.22'
+2025-06-10 13:23:52,336 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.22 (Session: 7486dbb1)
+2025-06-10 13:24:31,837 - INFO - Session 7486dbb1 ended by technician
+2025-06-10 13:24:31,842 - INFO - Technician 'noam-10.0.0.22' disconnected
+2025-06-10 13:24:32,691 - INFO - Client 'libby-10.0.0.22' disconnected
+2025-06-13 12:42:19,416 - INFO - New connection from 127.0.0.1:51361
+2025-06-13 12:42:19,419 - INFO - Technician 'noam-10.0.0.22' connected with ID: 9e1c25f2
+2025-06-13 12:42:25,560 - INFO - New connection from 10.0.0.28:50225
+2025-06-13 12:42:25,568 - INFO - Client 'libby-10.0.0.28' connected with ID: 4bcba844
+2025-06-13 12:42:30,573 - INFO - Help request from client 'libby-10.0.0.28' (10.0.0.28)
+2025-06-13 12:42:32,643 - INFO - Control request: Technician 'noam-10.0.0.22' -> Client 'libby-10.0.0.28'
+2025-06-13 12:42:34,561 - INFO - Control session started: noam-10.0.0.22 -> libby-10.0.0.28 (Session: 3c536125)
+2025-06-13 12:42:40,350 - INFO - Session 3c536125 ended by technician
+2025-06-13 12:42:46,185 - INFO - Technician 'noam-10.0.0.22' disconnected
